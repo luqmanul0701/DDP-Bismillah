@@ -5,7 +5,7 @@ NIM: 2509116095
 Sistem Informasi Kelas C 2025
 
 <h2>Flowchart Sistem Reservasi Nail Art<h2>
-        <p align="center"><img src="[https://flat-turquoise-cpzpto7khw.edgeone.app/flowchart.jpg](https://github.com/luqmanul0701/DDP-Bismillah/blob/main/flowchart.jpg?raw=true)" alt="Flowchart"
+        <p align="center"><img src=(https://github.com/luqmanul0701/DDP-Bismillah/blob/main/flowchart.jpg?raw=true)" alt="Flowchart"
                 width="80%"></p>
 
         <br>
